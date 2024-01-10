@@ -3,7 +3,6 @@
 # Les événements JavaScript
 
 
-
 # 📚️ La théorie
 
 Le cours OC :[ Les événements - Dynamisez vos sites web avec JavaScript ! - OpenClassrooms](https://openclassrooms.com/en/courses/1916641-dynamisez-vos-sites-web-avec-javascript/1918968-les-evenements)
@@ -30,7 +29,6 @@ Vidéo : [JavaScript côté navigateur : Les écouteurs d'événements](https://
 ### **🕶️ Modale Caché :**
 
 
-
 * Créez une case de 200 px par 200 px qui contiennent un texte et un background color blanc.
 * Faire en sorte que cette case ne soit pas visible.
 * Créez un bouton quelque part dans la page.
@@ -51,7 +49,6 @@ Vidéo : [JavaScript côté navigateur : Les écouteurs d'événements](https://
 ### **🕳️ Hover size :**
 
 
-
 * Créez 4 cases de 200 px par 200 px.
 * Chaque cases contient un texte, des bordures noires de 2 px et un blur de 60 %.
 * Au hover de la souris le blur disparaît et les bordures deviennent rouges.
@@ -60,8 +57,6 @@ Vidéo : [JavaScript côté navigateur : Les écouteurs d'événements](https://
 
 
 ### **🔥 Bonus : 🎠 Carrousel**
-
-
 
 * Créez un bouton
 * Au clic du bouton une image apparaît
